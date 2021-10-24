@@ -29,7 +29,9 @@ projects and implementations that was an extra that I was curious and eager to a
    - Implementing most standard SQL tasks such that DDL, DML, Query and Sub Query tasks.  
 2. `ER Assistant` and `Visual Paradigm`:
    - For most of the ERDs and Database Design Schemas.
-3. `Pentaho Data Integration`:
+3. `Microsoft Excel` and `WebPivotTable`:
+    - For making pivot tables and cubes.
+4. `Pentaho Data Integration`:
    - For Data Integration and ETL tasks and projects.  
-4. `PostgreSQL`:
+5. `PostgreSQL`:
    - Implementing SQL subtotal and analytic functions that is not available on MySQL DBMS.
