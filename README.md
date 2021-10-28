@@ -7,6 +7,8 @@ projects and implementations that was an extra that I was curious and eager to a
 - [Main Interface Snapshot](#TO-DO)
 - [Files](#TO-DO)
 - [Used Tools](#TO-DO)
+- [Lessons Learned](#TO-DO)
+- [Certifications](#TO-DO)
 
 
 --------------------------------------
@@ -35,3 +37,18 @@ projects and implementations that was an extra that I was curious and eager to a
    - For Data Integration and ETL tasks and projects.  
 5. `PostgreSQL`:
    - Implementing SQL subtotal and analytic functions that is not available on MySQL DBMS.
+--------------------------------------
+## Lessons Learned
+
+
+--------------------------------------
+## Certifications
+![Course 1: Database Management Essentials Certification](#ToDo)
+<p align="center">
+    Course 1: Database Management Essentials Certification  
+</p>
+
+![Course 2: Data Warehouse Concepts, Design and Data Integration Certification](#ToDo)
+<p align="center">
+    Course 2: Data Warehouse Concepts, Design and Data Integration Certification
+</p>
