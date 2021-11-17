@@ -54,3 +54,8 @@ projects and implementations that was an extra that I was curious and eager to a
 <p align="center">
     Course 2: Data Warehouse Concepts, Design and Data Integration Certification
 </p>
+
+![Course 3: Relational Database Support for Data Warehouses Certification](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Certifications/Certifications_Screenshots/Course3.jpg)
+<p align="center">
+    Course 3: Relational Database Support for Data Warehouses Certification
+</p>
