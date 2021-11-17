@@ -3,12 +3,12 @@ A repository for the most highlighted University of Colorado's Data Warehousing 
 projects and implementations that was an extra that I was curious and eager to apply.   
 
 ## Content
-- [Overview](#TO-DO)
-- [Main Interface Snapshot](#TO-DO)
-- [Files](#TO-DO)
-- [Used Tools](#TO-DO)
-- [Lessons Learned](#TO-DO)
-- [Certifications](#TO-DO)
+- [Overview](#overview)
+- [Main Interface Snapshot](#project-snapshots)
+- [Files](#files)
+- [Used Tools](#used-tools)
+- [Lessons Learned](#lessons-learned)
+- [Certifications](#certifications)
 
 
 --------------------------------------
@@ -43,12 +43,12 @@ projects and implementations that was an extra that I was curious and eager to a
 
 --------------------------------------
 ## Certifications
-![Course 1: Database Management Essentials Certification](#ToDo)
+![Course 1: Database Management Essentials Certification](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Certifications/Certifications_Screenshots/Course1.jpg)
 <p align="center">
     Course 1: Database Management Essentials Certification  
 </p>
 
-![Course 2: Data Warehouse Concepts, Design and Data Integration Certification](#ToDo)
+![Course 2: Data Warehouse Concepts, Design and Data Integration Certification](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Certifications/Certifications_Screenshots/Course2.jpg)
 <p align="center">
     Course 2: Data Warehouse Concepts, Design and Data Integration Certification
 </p>
