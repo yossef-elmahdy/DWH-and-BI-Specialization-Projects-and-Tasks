@@ -37,6 +37,8 @@ projects and implementations that was an extra that I was curious and eager to a
    - For Data Integration and ETL tasks and projects.  
 5. `PostgreSQL`:
    - Implementing SQL subtotal and analytic functions that is not available on MySQL DBMS.
+6. `MicroStrategy`:
+   - For BI analysis and building reports and dashboards. 
 --------------------------------------
 ## Lessons Learned
 
