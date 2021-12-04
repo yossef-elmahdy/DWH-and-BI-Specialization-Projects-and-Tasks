@@ -3,11 +3,11 @@ A repository for the most highlighted University of Colorado's Data Warehousing 
 
 ## Content
 - [Overview](#overview)
-- [Used Tools](#TO-Do)
-- [Snapshots](#To-DO)
+- [Tools & Databases Used](#tools--databases-used)
+- [Snapshots](#snapshots)
 - [Lessons Learned](#lessons-learned)
 - [Certifications](#certifications)
-- [Thanking & Contribution](#To-DO)
+- [Thanking & Contribution](#thanking--contribution)
 
 
 --------------------------------------
@@ -53,17 +53,17 @@ Note: You should have these tools installed to be able to use and test project f
 
 --------------------------------------
 ## Certifications
-![Course 1: Database Management Essentials Certification](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Certifications/Certifications_Screenshots/Course1.jpg)
+![Course 1: Database Management Essentials Certification](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Certifications/Certifications-Screenshots/Course1.jpg)
 <p align="center">
     Course 1: Database Management Essentials Certification  
 </p>
 
-![Course 2: Data Warehouse Concepts, Design and Data Integration Certification](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Certifications/Certifications_Screenshots/Course2.jpg)
+![Course 2: Data Warehouse Concepts, Design and Data Integration Certification](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Certifications/Certifications-Screenshots/Course2.jpg)
 <p align="center">
     Course 2: Data Warehouse Concepts, Design and Data Integration Certification
 </p>
 
-![Course 3: Relational Database Support for Data Warehouses Certification](#TO-DO)
+![Course 3: Relational Database Support for Data Warehouses Certification](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Courses-Certifications/Certifications-Screenshots/Course3.jpg)
 <p align="center">
     Course 3: Relational Database Support for Data Warehouses Certification
 </p>
