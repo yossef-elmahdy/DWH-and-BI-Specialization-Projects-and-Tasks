@@ -44,6 +44,51 @@ Note: You should have these tools installed to be able to use and test project f
 
 --------------------------------------
 ## Snapshots
+![IA Database Schema Design](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/ERD-Schemas-Tasks/Created-DB-Schemas/IA_DB_Schema.jpg)
+<p align="center">
+    IA Database Schema Design   
+</p>
+
+![Market Database ERD](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/ERD-Schemas-Tasks/Crows-Foot-ERDs/Market_DB_ERD.jpg)
+<p align="center">
+    Market Database ERD   
+</p>
+
+![Integration Task Sample](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Integration-Tasks/Screenshots/Assignment_1.jpg)
+<p align="center">
+    Integration Task Sample 
+</p>
+
+![Fitness Sales DatWarehouse ERD](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/DataWarehouse-Side-Project/2-DataWarehouse-ERD-SchemaDesign/Fitness_Sales_ERD.jpg)
+<p align="center">
+    Fitness Sales DataWarehouse Crow's Foot ERD  
+</p>
+
+![Distance Learning Analysis 1](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Reports-Dashboards-BI-Analysis/Dashboards-Building/Distance-Education-Analysis/Screenshots/after_51.png)
+
+![Distance Learning Analysis 2](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Reports-Dashboards-BI-Analysis/Dashboards-Building/Distance-Education-Analysis/Screenshots/after_85.png)
+
+<p align="center">
+    Distance Learning Analysis Dashboard  
+</p>
+
+![Salesforce.com Analysis 1](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Reports-Dashboards-BI-Analysis/Dashboards-Building/Salesforce-Analysis/Screenshots/after_51.jpg)
+
+![Salesforce.com Analysis 2](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Reports-Dashboards-BI-Analysis/Dashboards-Building/Salesforce-Analysis/Screenshots/after_74.jpg)
+
+![Salesforce.com Analysis 3](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Reports-Dashboards-BI-Analysis/Dashboards-Building/Salesforce-Analysis/Screenshots/after_83.jpg)
+
+<p align="center">
+    Salesforce Analysis Dashboard  
+</p>
+
+![Blazin Burger Performance Analysis 1](#To-Do)
+
+![Blazin Burger Performance Analysis 2](#To-Do)
+
+<p align="center">
+    Blazin Burger Performance Analysis Dashboard 
+</p>
 
 
 --------------------------------------
@@ -53,12 +98,12 @@ Note: You should have these tools installed to be able to use and test project f
 
 --------------------------------------
 ## Certifications
-![Course 1: Database Management Essentials Certification](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Certifications/Certifications-Screenshots/Course1.jpg)
+![Course 1: Database Management Essentials Certification](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Courses-Certifications/Certifications-Screenshots/Course1.jpg)
 <p align="center">
     Course 1: Database Management Essentials Certification  
 </p>
 
-![Course 2: Data Warehouse Concepts, Design and Data Integration Certification](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Certifications/Certifications-Screenshots/Course2.jpg)
+![Course 2: Data Warehouse Concepts, Design and Data Integration Certification](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Courses-Certifications/Certifications-Screenshots/Course2.jpg)
 <p align="center">
     Course 2: Data Warehouse Concepts, Design and Data Integration Certification
 </p>
