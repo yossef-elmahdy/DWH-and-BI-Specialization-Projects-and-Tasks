@@ -1,0 +1,902 @@
+﻿[
+ {
+   "Institution": "University of Phoenix",
+   "State": "AZ",
+   "Year": 2012,
+   "Total Enrollment": 256402,
+   "Distance Students": 256346,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Ashford University",
+   "State": "CA",
+   "Year": 2012,
+   "Total Enrollment": 77734,
+   "Distance Students": 76722,
+   "Percent DL Enrollment": 0.987,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Liberty University",
+   "State": "VA",
+   "Year": 2012,
+   "Total Enrollment": 74372,
+   "Distance Students": 69935,
+   "Percent DL Enrollment": 0.94,
+   "Type-of-Institution": "Private non-profit"
+ },
+ {
+   "Institution": "American Public University System",
+   "State": "WV",
+   "Year": 2012,
+   "Total Enrollment": 58115,
+   "Distance Students": 58115,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Walden University",
+   "State": "MN",
+   "Year": 2012,
+   "Total Enrollment": 50209,
+   "Distance Students": 50209,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Kaplan University-Davenport Campus",
+   "State": "IA",
+   "Year": 2012,
+   "Total Enrollment": 48865,
+   "Distance Students": 46374,
+   "Percent DL Enrollment": 0.949,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Grand Canyon University",
+   "State": "AZ",
+   "Year": 2012,
+   "Total Enrollment": 48650,
+   "Distance Students": 44006,
+   "Percent DL Enrollment": 0.905,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Ivy Tech Community College",
+   "State": "IN",
+   "Year": 2012,
+   "Total Enrollment": 100272,
+   "Distance Students": 42821,
+   "Percent DL Enrollment": 0.427,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "University of Maryland-University College",
+   "State": "MD",
+   "Year": 2012,
+   "Total Enrollment": 42268,
+   "Distance Students": 42165,
+   "Percent DL Enrollment": 0.998,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Western Governors University",
+   "State": "UT",
+   "Year": 2012,
+   "Total Enrollment": 41369,
+   "Distance Students": 41369,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Private non-profit"
+ },
+ {
+   "Institution": "Excelsior College",
+   "State": "NY",
+   "Year": 2012,
+   "Total Enrollment": 39728,
+   "Distance Students": 39728,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Private non-profit"
+ },
+ {
+   "Institution": "Arizona State University-Tempe",
+   "State": "AZ",
+   "Year": 2012,
+   "Total Enrollment": 73378,
+   "Distance Students": 36095,
+   "Percent DL Enrollment": 0.492,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Capella University",
+   "State": "MN",
+   "Year": 2012,
+   "Total Enrollment": 35754,
+   "Distance Students": 35754,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Everest University-South Orlando",
+   "State": "FL",
+   "Year": 2012,
+   "Total Enrollment": 33852,
+   "Distance Students": 33239,
+   "Percent DL Enrollment": 0.982,
+   "Type-of-Institution": "Private non-profit"
+ },
+ {
+   "Institution": "Pima Community College",
+   "State": "AZ",
+   "Year": 2012,
+   "Total Enrollment": 32988,
+   "Distance Students": 27677,
+   "Percent DL Enrollment": 0.839,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Florida International University",
+   "State": "FL",
+   "Year": 2012,
+   "Total Enrollment": 46171,
+   "Distance Students": 25028,
+   "Percent DL Enrollment": 0.542,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Full Sail University",
+   "State": "FL",
+   "Year": 2012,
+   "Total Enrollment": 23497,
+   "Distance Students": 23486,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "University of Florida",
+   "State": "FL",
+   "Year": 2012,
+   "Total Enrollment": 49913,
+   "Distance Students": 23180,
+   "Percent DL Enrollment": 0.464,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Colorado Technical University-Online",
+   "State": "CO",
+   "Year": 2012,
+   "Total Enrollment": 22608,
+   "Distance Students": 22608,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "University of Central Florida",
+   "State": "FL",
+   "Year": 2012,
+   "Total Enrollment": 59601,
+   "Distance Students": 21782,
+   "Percent DL Enrollment": 0.365,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "DeVry University-Illinois",
+   "State": "IL",
+   "Year": 2012,
+   "Total Enrollment": 24246,
+   "Distance Students": 21616,
+   "Percent DL Enrollment": 0.892,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Thomas Edison State University",
+   "State": "NJ",
+   "Year": 2012,
+   "Total Enrollment": 20606,
+   "Distance Students": 20456,
+   "Percent DL Enrollment": 0.993,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Columbia Southern University",
+   "State": "AL",
+   "Year": 2012,
+   "Total Enrollment": 19933,
+   "Distance Students": 19933,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Northern Virginia Community College",
+   "State": "VA",
+   "Year": 2012,
+   "Total Enrollment": 51864,
+   "Distance Students": 19152,
+   "Percent DL Enrollment": 0.369,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Lone Star College System",
+   "State": "TX",
+   "Year": 2012,
+   "Total Enrollment": 64872,
+   "Distance Students": 18602,
+   "Percent DL Enrollment": 0.287,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Houston Community College",
+   "State": "TX",
+   "Year": 2012,
+   "Total Enrollment": 58476,
+   "Distance Students": 17524,
+   "Percent DL Enrollment": 0.3,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Rio Salado College",
+   "State": "AZ",
+   "Year": 2012,
+   "Total Enrollment": 24342,
+   "Distance Students": 16902,
+   "Percent DL Enrollment": 0.694,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "St Petersburg College",
+   "State": "FL",
+   "Year": 2012,
+   "Total Enrollment": 32612,
+   "Distance Students": 16669,
+   "Percent DL Enrollment": 0.511,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "CUNY Borough of Manhattan Community College",
+   "State": "NY",
+   "Year": 2012,
+   "Total Enrollment": 24537,
+   "Distance Students": 16546,
+   "Percent DL Enrollment": 0.674,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "University of South Florida-Main Campus",
+   "State": "FL",
+   "Year": 2012,
+   "Total Enrollment": 41116,
+   "Distance Students": 16241,
+   "Percent DL Enrollment": 0.395,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Troy University",
+   "State": "AL",
+   "Year": 2012,
+   "Total Enrollment": 22554,
+   "Distance Students": 15444,
+   "Percent DL Enrollment": 0.685,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Nova Southeastern University",
+   "State": "FL",
+   "Year": 2012,
+   "Total Enrollment": 26808,
+   "Distance Students": 14983,
+   "Percent DL Enrollment": 0.559,
+   "Type-of-Institution": "Private non-profit"
+ },
+ {
+   "Institution": "American InterContinental University-Online",
+   "State": "IL",
+   "Year": 2012,
+   "Total Enrollment": 14170,
+   "Distance Students": 14170,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Valencia College",
+   "State": "FL",
+   "Year": 2012,
+   "Total Enrollment": 42915,
+   "Distance Students": 13985,
+   "Percent DL Enrollment": 0.326,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "College of Southern Nevada",
+   "State": "NV",
+   "Year": 2012,
+   "Total Enrollment": 35678,
+   "Distance Students": 13270,
+   "Percent DL Enrollment": 0.372,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Pennsylvania State University-Main Campus",
+   "State": "PA",
+   "Year": 2012,
+   "Total Enrollment": 45783,
+   "Distance Students": 13238,
+   "Percent DL Enrollment": 0.289,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Tidewater Community College",
+   "State": "VA",
+   "Year": 2012,
+   "Total Enrollment": 30134,
+   "Distance Students": 13164,
+   "Percent DL Enrollment": 0.437,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "National University",
+   "State": "CA",
+   "Year": 2012,
+   "Total Enrollment": 17898,
+   "Distance Students": 12775,
+   "Percent DL Enrollment": 0.714,
+   "Type-of-Institution": "Private non-profit"
+ },
+ {
+   "Institution": "Northern Arizona University",
+   "State": "AZ",
+   "Year": 2012,
+   "Total Enrollment": 25991,
+   "Distance Students": 12544,
+   "Percent DL Enrollment": 0.483,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Cuyahoga Community College District",
+   "State": "OH",
+   "Year": 2012,
+   "Total Enrollment": 29701,
+   "Distance Students": 12418,
+   "Percent DL Enrollment": 0.418,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "South University Savannah Online",
+   "State": "GA",
+   "Year": 2012,
+   "Total Enrollment": 12364,
+   "Distance Students": 12364,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Tarrant County College District",
+   "State": "TX",
+   "Year": 2012,
+   "Total Enrollment": 50439,
+   "Distance Students": 12290,
+   "Percent DL Enrollment": 0.244,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Wake Technical Community College",
+   "State": "NC",
+   "Year": 2012,
+   "Total Enrollment": 20440,
+   "Distance Students": 11853,
+   "Percent DL Enrollment": 0.58,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Portland Community College",
+   "State": "OR",
+   "Year": 2012,
+   "Total Enrollment": 33767,
+   "Distance Students": 11822,
+   "Percent DL Enrollment": 0.35,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Brigham Young University-Idaho",
+   "State": "ID",
+   "Year": 2012,
+   "Total Enrollment": 23261,
+   "Distance Students": 11763,
+   "Percent DL Enrollment": 0.506,
+   "Type-of-Institution": "Private non-profit"
+ },
+ {
+   "Institution": "Columbia College",
+   "State": "MO",
+   "Year": 2012,
+   "Total Enrollment": 17830,
+   "Distance Students": 11718,
+   "Percent DL Enrollment": 0.657,
+   "Type-of-Institution": "Private non-profit"
+ },
+ {
+   "Institution": "Columbus State Community College",
+   "State": "OH",
+   "Year": 2012,
+   "Total Enrollment": 25863,
+   "Distance Students": 11558,
+   "Percent DL Enrollment": 0.447,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Middle Tennessee State University",
+   "State": "TN",
+   "Year": 2012,
+   "Total Enrollment": 25394,
+   "Distance Students": 11416,
+   "Percent DL Enrollment": 0.45,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Embry-Riddle Aeronautical University-Worldwide",
+   "State": "FL",
+   "Year": 2012,
+   "Total Enrollment": 15562,
+   "Distance Students": 11368,
+   "Percent DL Enrollment": 0.73,
+   "Type-of-Institution": "Private non-profit"
+ },
+ {
+   "Institution": "Southern New Hampshire University",
+   "State": "NH",
+   "Year": 2012,
+   "Total Enrollment": 17454,
+   "Distance Students": 11286,
+   "Percent DL Enrollment": 0.647,
+   "Type-of-Institution": "Private non-profit"
+ },
+ {
+   "Institution": "University of Phoenix-Arizona",
+   "State": "AZ",
+   "Year": 2015,
+   "Total Enrollment": 165743,
+   "Distance Students": 162003,
+   "Percent DL Enrollment": 0.977,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Liberty University",
+   "State": "VA",
+   "Year": 2015,
+   "Total Enrollment": 80494,
+   "Distance Students": 72519,
+   "Percent DL Enrollment": 0.901,
+   "Type-of-Institution": "Private non-profit"
+ },
+ {
+   "Institution": "Western Governors University",
+   "State": "UT",
+   "Year": 2015,
+   "Total Enrollment": 70504,
+   "Distance Students": 70504,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Private non-profit"
+ },
+ {
+   "Institution": "Southern New Hampshire University",
+   "State": "NH",
+   "Year": 2015,
+   "Total Enrollment": 61285,
+   "Distance Students": 56371,
+   "Percent DL Enrollment": 0.92,
+   "Type-of-Institution": "Private non-profit"
+ },
+ {
+   "Institution": "Grand Canyon University",
+   "State": "AZ",
+   "Year": 2015,
+   "Total Enrollment": 69444,
+   "Distance Students": 54543,
+   "Percent DL Enrollment": 0.785,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Walden University",
+   "State": "MN",
+   "Year": 2015,
+   "Total Enrollment": 52799,
+   "Distance Students": 52799,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "American Public University System",
+   "State": "WV",
+   "Year": 2015,
+   "Total Enrollment": 52361,
+   "Distance Students": 52361,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "University of Maryland-University College",
+   "State": "MD",
+   "Year": 2015,
+   "Total Enrollment": 50248,
+   "Distance Students": 48677,
+   "Percent DL Enrollment": 0.969,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Kaplan University-Davenport Campus",
+   "State": "IA",
+   "Year": 2015,
+   "Total Enrollment": 45355,
+   "Distance Students": 45268,
+   "Percent DL Enrollment": 0.998,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Excelsior College",
+   "State": "NY",
+   "Year": 2015,
+   "Total Enrollment": 43123,
+   "Distance Students": 43123,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Private non-profit"
+ },
+ {
+   "Institution": "Ashford University",
+   "State": "CA",
+   "Year": 2015,
+   "Total Enrollment": 42452,
+   "Distance Students": 42046,
+   "Percent DL Enrollment": 0.99,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Capella University",
+   "State": "MN",
+   "Year": 2015,
+   "Total Enrollment": 34365,
+   "Distance Students": 34365,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Ivy Tech Community College",
+   "State": "IN",
+   "Year": 2015,
+   "Total Enrollment": 81668,
+   "Distance Students": 34103,
+   "Percent DL Enrollment": 0.418,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Brigham Young University-Idaho",
+   "State": "ID",
+   "Year": 2015,
+   "Total Enrollment": 43803,
+   "Distance Students": 33551,
+   "Percent DL Enrollment": 0.766,
+   "Type-of-Institution": "Private non-profit"
+ },
+ {
+   "Institution": "University of Central Florida",
+   "State": "FL",
+   "Year": 2015,
+   "Total Enrollment": 62953,
+   "Distance Students": 33034,
+   "Percent DL Enrollment": 0.525,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "University of Florida",
+   "State": "FL",
+   "Year": 2015,
+   "Total Enrollment": 50645,
+   "Distance Students": 28838,
+   "Percent DL Enrollment": 0.569,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Florida International University",
+   "State": "FL",
+   "Year": 2015,
+   "Total Enrollment": 49782,
+   "Distance Students": 26341,
+   "Percent DL Enrollment": 0.529,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Arizona State University-Tempe",
+   "State": "AZ",
+   "Year": 2015,
+   "Total Enrollment": 51984,
+   "Distance Students": 22809,
+   "Percent DL Enrollment": 0.439,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Colorado Technical University-Online",
+   "State": "CO",
+   "Year": 2015,
+   "Total Enrollment": 22757,
+   "Distance Students": 22757,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Chamberlain College of Nursing-Illinois",
+   "State": "IL",
+   "Year": 2015,
+   "Total Enrollment": 23250,
+   "Distance Students": 22114,
+   "Percent DL Enrollment": 0.951,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Lone Star College System",
+   "State": "TX",
+   "Year": 2015,
+   "Total Enrollment": 70724,
+   "Distance Students": 21811,
+   "Percent DL Enrollment": 0.308,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "University of South Florida-Main Campus",
+   "State": "FL",
+   "Year": 2015,
+   "Total Enrollment": 42067,
+   "Distance Students": 20993,
+   "Percent DL Enrollment": 0.499,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Columbia Southern University",
+   "State": "AL",
+   "Year": 2015,
+   "Total Enrollment": 20823,
+   "Distance Students": 20823,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "DeVry University-Illinois",
+   "State": "IL",
+   "Year": 2015,
+   "Total Enrollment": 22273,
+   "Distance Students": 20458,
+   "Percent DL Enrollment": 0.919,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Full Sail University",
+   "State": "FL",
+   "Year": 2015,
+   "Total Enrollment": 20025,
+   "Distance Students": 19939,
+   "Percent DL Enrollment": 0.996,
+   "Type-of-Institution": "Private for-profit"
+ },
+ {
+   "Institution": "Houston Community College",
+   "State": "TX",
+   "Year": 2015,
+   "Total Enrollment": 56522,
+   "Distance Students": 19111,
+   "Percent DL Enrollment": 0.338,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Arizona State University-Skysong",
+   "State": "AZ",
+   "Year": 2015,
+   "Total Enrollment": 20273,
+   "Distance Students": 19094,
+   "Percent DL Enrollment": 0.942,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "The University of Texas at Arlington",
+   "State": "TX",
+   "Year": 2015,
+   "Total Enrollment": 41988,
+   "Distance Students": 17541,
+   "Percent DL Enrollment": 0.418,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Valencia College",
+   "State": "FL",
+   "Year": 2015,
+   "Total Enrollment": 44050,
+   "Distance Students": 17216,
+   "Percent DL Enrollment": 0.391,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "American College of Financial Services",
+   "State": "PA",
+   "Year": 2015,
+   "Total Enrollment": 16764,
+   "Distance Students": 16764,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Private non-profit"
+ },
+ {
+   "Institution": "St Petersburg College",
+   "State": "FL",
+   "Year": 2015,
+   "Total Enrollment": 31767,
+   "Distance Students": 16501,
+   "Percent DL Enrollment": 0.519,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "California State University-Northridge",
+   "State": "CA",
+   "Year": 2015,
+   "Total Enrollment": 41548,
+   "Distance Students": 16130,
+   "Percent DL Enrollment": 0.388,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "College of Southern Nevada",
+   "State": "NV",
+   "Year": 2015,
+   "Total Enrollment": 33313,
+   "Distance Students": 14906,
+   "Percent DL Enrollment": 0.447,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Texas Tech University",
+   "State": "TX",
+   "Year": 2015,
+   "Total Enrollment": 35859,
+   "Distance Students": 14826,
+   "Percent DL Enrollment": 0.413,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Pennsylvania State University-Main Campus",
+   "State": "PA",
+   "Year": 2015,
+   "Total Enrollment": 47307,
+   "Distance Students": 14355,
+   "Percent DL Enrollment": 0.303,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "University of Cincinnati-Main Campus",
+   "State": "OH",
+   "Year": 2015,
+   "Total Enrollment": 36042,
+   "Distance Students": 13992,
+   "Percent DL Enrollment": 0.388,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Kent State University at Kent",
+   "State": "OH",
+   "Year": 2015,
+   "Total Enrollment": 30067,
+   "Distance Students": 13754,
+   "Percent DL Enrollment": 0.457,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Northern Virginia Community College",
+   "State": "VA",
+   "Year": 2015,
+   "Total Enrollment": 52078,
+   "Distance Students": 13421,
+   "Percent DL Enrollment": 0.258,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Utah State University",
+   "State": "UT",
+   "Year": 2015,
+   "Total Enrollment": 28622,
+   "Distance Students": 13360,
+   "Percent DL Enrollment": 0.467,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Thomas Edison State University",
+   "State": "NJ",
+   "Year": 2015,
+   "Total Enrollment": 13093,
+   "Distance Students": 13093,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "University of Houston",
+   "State": "TX",
+   "Year": 2015,
+   "Total Enrollment": 42704,
+   "Distance Students": 12961,
+   "Percent DL Enrollment": 0.304,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Florida State University",
+   "State": "FL",
+   "Year": 2015,
+   "Total Enrollment": 40830,
+   "Distance Students": 12858,
+   "Percent DL Enrollment": 0.315,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Embry-Riddle Aeronautical University",
+   "State": "FL",
+   "Year": 2015,
+   "Total Enrollment": 13740,
+   "Distance Students": 12857,
+   "Percent DL Enrollment": 0.936,
+   "Type-of-Institution": "Private non-profit"
+ },
+ {
+   "Institution": "University of Iowa",
+   "State": "IA",
+   "Year": 2015,
+   "Total Enrollment": 30844,
+   "Distance Students": 12784,
+   "Percent DL Enrollment": 0.414,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Wilmington University",
+   "State": "DE",
+   "Year": 2015,
+   "Total Enrollment": 15002,
+   "Distance Students": 12745,
+   "Percent DL Enrollment": 0.85,
+   "Type-of-Institution": "Private non-profit"
+ },
+ {
+   "Institution": "University of North Texas",
+   "State": "TX",
+   "Year": 2015,
+   "Total Enrollment": 37299,
+   "Distance Students": 12517,
+   "Percent DL Enrollment": 0.336,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "University of Alabama at Birmingham",
+   "State": "AL",
+   "Year": 2015,
+   "Total Enrollment": 18333,
+   "Distance Students": 12371,
+   "Percent DL Enrollment": 0.675,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "North Carolina State University at Raleigh",
+   "State": "NC",
+   "Year": 2015,
+   "Total Enrollment": 34015,
+   "Distance Students": 12321,
+   "Percent DL Enrollment": 0.362,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Cuyahoga Community College District",
+   "State": "OH",
+   "Year": 2015,
+   "Total Enrollment": 25449,
+   "Distance Students": 12266,
+   "Percent DL Enrollment": 0.482,
+   "Type-of-Institution": "Public"
+ },
+ {
+   "Institution": "Pennsylvania State University-World Campus",
+   "State": "PA",
+   "Year": 2015,
+   "Total Enrollment": 12242,
+   "Distance Students": 12242,
+   "Percent DL Enrollment": 1,
+   "Type-of-Institution": "Public"
+ }
+]

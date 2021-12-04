@@ -1,0 +1,72 @@
+[
+  {
+    "op": "core/row-removal",
+    "description": "Deleted rows not meeting the requirement: {cells in \"Close Date\" are 20170108 — 20170728} (#### Rows)",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "selectNonTime": true,
+          "expression": "value",
+          "selectBlank": true,
+          "selectError": true,
+          "selectTime": true,
+          "name": "Close Date",
+          "from": 1483875504000,
+          "to": 1501200000000,
+          "type": "timerange",
+          "columnName": "Close Date"
+        }
+      ]
+    },
+    "invert": true
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Edit Cell [Region] (#### Rows)",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Region",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Northeast"
+        ],
+        "to": "East",
+        "type": "text"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Edit Cell [Region] (#### Rows)",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Region",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Southeast"
+        ],
+        "to": "East",
+        "type": "text"
+      }
+    ]
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename Column [AccountExec_ID] To {AcctExec ID}",
+    "oldColumnName": "AccountExec_ID",
+    "newColumnName": "AcctExec ID"
+  }
+]
