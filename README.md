@@ -82,9 +82,9 @@ Note: You should have these tools installed to be able to use and test project f
     Salesforce Analysis Dashboard  
 </p>
 
-![Blazin Burger Performance Analysis 1](#To-Do)
+![Blazin Burger Performance Analysis 1](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Reports-Dashboards-BI-Analysis/Dashboards-Building/Blazin-Burger-Performance-Analysis/Screenshots/final_1.jpg)
 
-![Blazin Burger Performance Analysis 2](#To-Do)
+![Blazin Burger Performance Analysis 2](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Reports-Dashboards-BI-Analysis/Dashboards-Building/Blazin-Burger-Performance-Analysis/Screenshots/final_2.jpg)
 
 <p align="center">
     Blazin Burger Performance Analysis Dashboard 
