@@ -120,7 +120,7 @@ Note: You should have these tools installed to be able to use and test project f
 
 --------------------------------------
 ## Thanking & Contribution
-Thank you for all who have learned me something or guided me one day wherever they are in this
+Thank you for all who have taught me something or guided me one day wherever they are in this
 world, whoever they are alive or dead. I am really grateful for you.
 
 Any feedback, advice, guidance, notice or contribution are appreciated, I am waiting for hearing from you and your thoughts. Thank you for reading to the end ^_^.  
