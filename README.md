@@ -113,7 +113,7 @@ Note: You should have these tools installed to be able to use and test project f
     Course 3: Relational Database Support for Data Warehouses Certification
 </p>
 
-![Course 4: Business Intelligence Concepts, Tools, and Applications Certification](#TO-DO)
+![Course 4: Business Intelligence Concepts, Tools, and Applications Certification](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Courses-Certifications/Certifications-Screenshots/Couurse4.jpg)
 <p align="center">
     Course 4: Business Intelligence Concepts, Tools, and Applications Certification
 </p>
