@@ -56,7 +56,7 @@ Note: You should have these tools installed to be able to use and test project f
 
 ![Integration Task Sample](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/Integration-Tasks/Screenshots/Assignment_1.jpg)
 <p align="center">
-    Integration Task Sample 
+    Integration Task Sample
 </p>
 
 ![Fitness Sales DatWarehouse ERD](https://github.com/yossef-elmahdy/DWH-and-BI-Specialization-Projects-and-Tasks/blob/master/DataWarehouse-Side-Project/2-DataWarehouse-ERD-SchemaDesign/Fitness_Sales_ERD.jpg)
@@ -87,7 +87,7 @@ Note: You should have these tools installed to be able to use and test project f
 ![Blazin Burger Performance Analysis 2](#To-Do)
 
 <p align="center">
-    Blazin Burger Performance Analysis Dashboard 
+    Blazin Burger Performance Analysis Dashboard
 </p>
 
 
@@ -120,7 +120,7 @@ Note: You should have these tools installed to be able to use and test project f
 
 --------------------------------------
 ## Thanking & Contribution
-Thank you for all who have learned me something or guided me one day wherever they are in this
+Thank you for all who have taught me something or guided me one day wherever they are in this
 world, whoever they are alive or dead. I am really grateful for you.
 
 Any feedback, advice, guidance, notice or contribution are appreciated, I am waiting for hearing from you and your thoughts. Thank you for reading to the end ^_^.  
